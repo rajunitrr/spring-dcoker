@@ -8,10 +8,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
 
-public class SbJenkinsDemoApplication {
+public class SpringDockerApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SbJenkinsDemoApplication.class, args);
+		SpringApplication.run(SpringDockerApp.class, args);
 	}
 
 }
